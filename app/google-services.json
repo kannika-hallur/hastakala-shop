@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82726718554",
+    "project_id": "hastakalashop-fc69a",
+    "storage_bucket": "hastakalashop-fc69a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82726718554:android:a62a427dec4e0a1e3fdc63",
+        "android_client_info": {
+          "package_name": "com.example.hastakalashop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Bwue8r4jR9qxGw2goBrpzW1i8ApOpVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
